@@ -1,6 +1,7 @@
 <p align="center">
   <img src="BannerIA.jpeg" alt="Banner del proyecto" width="100%">
-</p>
+</p>;
+
 # Modelado Pokemon usando tecnicas de regresión
 Andrés Eduardo Mantilla Diaz
 Andrés David García Hernández
