@@ -32,6 +32,8 @@ Hipótesis del Proyecto
 
 “El valor de HP de un Pokémon puede estimarse adecuadamente mediante modelos de regresión utilizando otras estadísticas y atributos presentes en el dataset.”
 
+Video de youtube del proyecto: https://youtu.be/keuBAR8wll4
+
 Alcance del Proyecto
 
 El proyecto se limita al análisis y predicción del atributo HP utilizando únicamente la información disponible en el dataset de Pokémon. No se consideran datos externos ni mecánicas avanzadas del juego que no estén representadas en los datos utilizados.
